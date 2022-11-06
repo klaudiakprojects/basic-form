@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    background:rgb(202, 170, 231);
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.form {
+    width: 100%;
+    max-width: 500px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.form-input {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.form-input label {
+    display: inline-block;
+}
+
+.form-input input {
+    display: block;
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: rgb(202, 170, 231);
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+label {
+    font-size: 12px;
+}
+
+#check_fname, #check_lname, #check_email, #check_password, #check_confirm_password {
+    color:red;
+    font-size:10px;
+}
+
+.success-page-text {
+    color: white;
+}
