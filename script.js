@@ -34,7 +34,8 @@ function validatingForm() {
     if (password !== confirmPassword) {
         return false;
     } 
-    return true;
+      window.location.replace("success-page.html");
+     return false
 }
 
 function passwordValidating() {
