@@ -6,19 +6,19 @@
 | Verifying that the user cannot register without providing an email | 
 | Verifying that the user cannot register without providing a confirmation password | 
 | Verifying that the user cannot register when providing an invalid confirmation password | 
-| Verification that the user cannot register when entering their name in the 'first name' field using uppercase letters and completing the rest correctly | 
-| Verification that the user cannot register when entering their surname in the 'last name' field using uppercase letters and completing the rest correctly | 
-| Verification that the user cannot register when entering their e-mail in the 'e-mail' field using uppercase letters and completing the rest correctly | 
-| Verification that the user cannot register when entering numbers in the 'first name' field and completing the rest correctly | 
-| Verification that the user cannot register when entering numbers in the 'last name' field and completing the rest correctly | 
-| Verification that the user cannot register when entering only numbers in the 'email' field and completing the rest correctly | 
-| Verification that the user cannot register when entering special characters in the 'first name' field and completing the rest correctly | 
-| Verification that the user cannot register when entering special characters in the 'last name' field and completing the rest correctly | 
+| Verifying that the user cannot register when entering their name in the 'first name' field using uppercase letters and completing the rest correctly | 
+| Verifying that the user cannot register when entering their surname in the 'last name' field using uppercase letters and completing the rest correctly | 
+| Verifying that the user cannot register when entering their e-mail in the 'e-mail' field using uppercase letters and completing the rest correctly | 
+| Verifying that the user cannot register when entering numbers in the 'first name' field and completing the rest correctly | 
+| Verifying that the user cannot register when entering numbers in the 'last name' field and completing the rest correctly | 
+| Verifying that the user cannot register when entering only numbers in the 'email' field and completing the rest correctly | 
+| Verifying that the user cannot register when entering special characters in the 'first name' field and completing the rest correctly | 
+| Verifying that the user cannot register when entering special characters in the 'last name' field and completing the rest correctly | 
 | Verification that the user cannot register when entering special characters in the 'email' field and completing the rest correctly | 
-| Verification that the user cannot register when entering more than one "@" character in the 'email' field and completing the rest correctly | 
-| Verification that the user cannot register when entering their name in the 'first name' field with some spaces and completing the rest correctly | 
-| Verification that the user cannot register when entering their surname in the 'second name' field with some spaces and completing the rest correctly | 
-| Verification that the user cannot register when entering their email in the 'email' field with some spaces and completing the rest correctly | 
+| Verifying that the user cannot register when entering more than one "@" character in the 'email' field and completing the rest correctly | 
+| Verifying that the user cannot register when entering their name in the 'first name' field with some spaces and completing the rest correctly | 
+| Verifying that the user cannot register when entering their surname in the 'second name' field with some spaces and completing the rest correctly | 
+| Verifying that the user cannot register when entering their email in the 'email' field with some spaces and completing the rest correctly | 
 | Verifying that the user cannot register without providing any credentials and clicking "JOIN" | 
 | Verifying that the user cannot register when providing different password and confirm password | 
 | Verifying that the user cannot register when password has less than 8 characters | 
