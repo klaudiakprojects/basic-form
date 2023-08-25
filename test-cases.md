@@ -14,7 +14,7 @@
 | Verifying that the user cannot register when entering only numbers in the 'email' field and completing the rest correctly | 
 | Verifying that the user cannot register when entering special characters in the 'first name' field and completing the rest correctly | 
 | Verifying that the user cannot register when entering special characters in the 'last name' field and completing the rest correctly | 
-| Verification that the user cannot register when entering special characters in the 'email' field and completing the rest correctly | 
+| Verifying that the user cannot register when entering special characters in the 'email' field and completing the rest correctly | 
 | Verifying that the user cannot register when entering more than one "@" character in the 'email' field and completing the rest correctly | 
 | Verifying that the user cannot register when entering their name in the 'first name' field with some spaces and completing the rest correctly | 
 | Verifying that the user cannot register when entering their surname in the 'second name' field with some spaces and completing the rest correctly | 
